@@ -16,5 +16,5 @@ Software engineer with experience in C, C ++, Python and Java. With interest in 
 <div align="center">
   <a href="https://github.com/manufoscarini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manufoscarini&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manufoscarini&layout=compact&langs_count=8&theme=panda&?hide=css"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manufoscarini&layout=compact&langs_count=8&theme=panda&?hide=css"/>
 </div>
