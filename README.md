@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**ManuFoscarini/ManuFoscarini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Manu 👋
 
-Here are some ideas to get you started:
+Software engineer with experience in C, C ++, Python. With interest in working in game development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Computer Science undergrad at UFSC
+- 👯 I’m currently working as a support engineer at Bridge Labs
+- 🥅 2022 Goals: Learn more about game development
+- ⚡ Fun fact: I love to draw and play videogames
+
+### Connect with me:
+
+:mailbox: manuufoscarini@gmail.com |
+:bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/emanuelle-foscarini-a4a9b120a/)
+
+<div align="center">
+  <a href="https://github.com/manufoscarini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manufoscarini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manufoscarini&layout=compact&langs_count=7&theme=dracula&?hide=css"/>
+</div>
