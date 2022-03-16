@@ -11,7 +11,7 @@ Software engineer with experience in C, C ++, Python. With interest in working i
 ### Connect with me:
 
 :mailbox: manuufoscarini@gmail.com |
-:bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/emanuelle-foscarini-a4a9b120a/)
+[Linkedin](https://www.linkedin.com/in/emanuelle-foscarini-a4a9b120a/)
 
 <div align="center">
   <a href="https://github.com/manufoscarini">
