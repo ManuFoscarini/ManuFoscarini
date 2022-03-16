@@ -1,5 +1,5 @@
 
-# Hi there, I'm Manu 👋
+# Hi there, I'm Manu! 👋
 
 Software engineer with experience in C, C ++, Python and Java. With interest in working in game development.
 
