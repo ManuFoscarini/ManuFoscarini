@@ -1,11 +1,11 @@
 
 # Hi there, I'm Manu! 👋
 
-Software engineer with experience in C, C ++, Python and Java. With interest in working in game development.
+Software engineer with experience in C, C ++, Python and Java. 
 
 - 🔭 Computer Science undergrad at UFSC
 - 👯 I’m currently working as a support engineer at Bridge Labs
-- 🥅 2022 Goals: Learn more about game development
+- 🥅 2022 Goals: Learn more about game development and software development
 - ⚡ Fun fact: I love to draw and play videogames
 
 ### Connect with me:
