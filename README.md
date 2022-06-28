@@ -4,9 +4,7 @@
 Software engineer with experience in C, C ++, Python and Java. 
 
 - 🔭 Computer Science undergrad at UFSC
-- 👯 I’m currently working as a support engineer at Bridge Labs
-- 🥅 2022 Goals: Learn more about game development and software development
-- ⚡ Fun fact: I love to draw and play videogames
+- 👯 I’m currently working as a Full Stack Developer at Bridge Labs
 
 ### Connect with me:
 
