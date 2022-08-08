@@ -11,7 +11,7 @@ Software engineer with experience in C, C ++, Python and Java.
 :mailbox: manuufoscarini@gmail.com |
 [Linkedin](https://www.linkedin.com/in/emanuelle-foscarini-a4a9b120a/)
 
-![Snake animation](https://github.com/manufoscarini/manufoscarini/blob/output/github-contribution-grid-snake.svg)
+github-user-contribution.svg
         
 <div align='right'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=manufoscarini.manufoscarini" alt="visitor badge"/>
