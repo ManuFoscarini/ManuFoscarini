@@ -1,7 +1,7 @@
 
 # Hi there, I'm Manu! 👋
 
-Software engineer with experience in C, C ++, Python and Java. 
+Software engineer with experience in Python, Kotlin and JavaScript. 
 
 - 🔭 Computer Science undergrad at UFSC
 - 👯 I’m currently working as a Full Stack Developer at Bridge Labs
