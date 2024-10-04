@@ -1,7 +1,7 @@
 
 # Hi there, I'm Manu! 👋
 
-Software engineer with experience in Python, Kotlin, Java, Reack, TypeScript and JavaScript. 
+Software engineer with experience in Python, Kotlin, Java, React, TypeScript and JavaScript. 
 
 - 🔭 B.S in Computer Science at UFSC
 - 👯 I’m currently working as a Full Stack Developer at Bridge Labs
